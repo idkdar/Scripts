@@ -149,6 +149,7 @@
 //cs_include Scripts/Story/SuperDeath.cs
 
 
+//cs_include Scripts/Story/Tavern
 //cs_include Scripts/Story/ThirdSpell.cs
 //cs_include Scripts/Story/TitanAttack.cs
 //cs_include Scripts/Story/Tournament.cs
